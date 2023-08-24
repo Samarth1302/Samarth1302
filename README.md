@@ -72,9 +72,7 @@
 
 ###
 
-<div align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=Samarth1302&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Samarth1302&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Samarth1302&theme=dark&hide_border=false)<br/>
 ###
