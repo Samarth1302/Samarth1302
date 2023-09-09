@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently learning GraphQL.<br>👨‍💻 All of my projects are available at https://github.com/Samarth1302<br>📫 How to reach me samarth.chauhan13022002@gmail.com or <a href="https://www.linkedin.com/in/samarth-chauhan-56845a209" target="_blank">LinkedIn</a></p>
+<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently learning GraphQL, AWS.<br>👨‍💻 All of my projects are available at https://github.com/Samarth1302<br>📫 How to reach me samarth.chauhan13022002@gmail.com or <a href="https://www.linkedin.com/in/samarth-chauhan-56845a209" target="_blank">LinkedIn</a></p>
 
 ###
 
