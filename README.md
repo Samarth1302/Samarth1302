@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Samarth and I'm a software enthusiast from Ahmedabad. I have a keen interest in backend development. I am a keen problem solver and have participated in multiple contests over Codechef, Codeforces and Leetcode.</p>
+<p align="left">My name is Samarth and I'm a software enthusiast from Ahmedabad. I have a keen interest in backend development. I like to tackle DSA problems and have participated in multiple contests over Codechef, Codeforces and Leetcode.</p>
 
 ###
 
