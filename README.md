@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020, check out my<a href="https://samarth-theta.vercel.app/" target="_blank">Portfolio website</a>.<br>👨‍💻 All of my projects are available on Github.<br>📫 Reach me via samarth.chauhan13022002@gmail.com or <a href="https://www.linkedin.com/in/samarth-chauhan-56845a209" target="_blank">LinkedIn</a></p>
+<p align="left">✨ Creating bugs since 2020, check out my <a href="https://samarth-theta.vercel.app/" target="_blank">Portfolio website</a>.<br>👨‍💻 All of my projects are available on Github.<br>📫 Reach me via samarth.chauhan13022002@gmail.com or <a href="https://www.linkedin.com/in/samarth-chauhan-56845a209" target="_blank">LinkedIn</a></p>
 
 ###
 
