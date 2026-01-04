@@ -88,7 +88,12 @@
 
 ###
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samarth1302)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samarth1302&hide_border=false)<br/>
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Samarth1302&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samarth1302&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth1302&layout=compact&theme=tokyonight)
+
 ###
